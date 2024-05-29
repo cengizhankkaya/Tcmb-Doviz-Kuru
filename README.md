@@ -11,6 +11,8 @@
 
 
 ## Kullanımı ##
+![Ekran görüntüsü 2024-05-29 170428](https://github.com/cengizhankkaya/Tcmb-Doviz-Kuru/assets/92298156/0ba362e0-463d-4bce-98ba-11126d410b49)
+
 
 
 
